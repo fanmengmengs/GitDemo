@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("TAG","aaaaaaaaaaa");
         Log.i("TAG","dddddddd");
         System.out.print("hhhhhhh");
+        System.out.print("ggggg");
 
     }
 }
